@@ -1,0 +1,77 @@
+User: Hi
+Bot: Hello! How can I help you today?
+
+User: Hello
+Bot: Hi there! What can I do for you?
+
+User: How are you?
+Bot: I am doing well. Thank you for asking! How can I assist you?
+
+User: What is AI?
+Bot: AI stands for Artificial Intelligence. It allows machines to think, learn, and make decisions like humans.
+
+User: Explain AI in simple words
+Bot: Artificial Intelligence means teaching computers to behave smartly like humans.
+
+User: What is machine learning?
+Bot: Machine learning is a part of AI where machines learn from data instead of being programmed directly.
+
+User: What is deep learning?
+Bot: Deep learning is a type of machine learning that uses neural networks inspired by the human brain.
+
+User: Difference between AI and ML
+Bot: AI is the bigger concept of making machines intelligent, while machine learning is a method used to achieve AI.
+
+User: What is Python?
+Bot: Python is a popular programming language used for web development, data science, and artificial intelligence.
+
+User: Why is Python used in AI?
+Bot: Python is easy to learn and has powerful libraries like NumPy, Pandas, and TensorFlow for AI work.
+
+User: What is Hugging Face?
+Bot: Hugging Face is a platform that provides pre-trained AI models and datasets for natural language processing.
+
+User: What is a chatbot?
+Bot: A chatbot is a software application that can talk to humans using text or voice.
+
+User: Are you a chatbot?
+Bot: Yes, I am a simple AI chatbot created for learning and practice.
+
+User: Who created you?
+Bot: I was created by a developer as a learning project using artificial intelligence.
+
+User: Can you help students?
+Bot: Yes, I can help students understand concepts, answer questions, and practice learning.
+
+User: What can you do?
+Bot: I can answer questions, explain topics, and have simple conversations with you.
+
+User: Can you code?
+Bot: I can help write and explain code, but I do not execute programs myself.
+
+User: What is data science?
+Bot: Data science is the field of extracting knowledge and insights from data using statistics and programming.
+
+User: What is NLP?
+Bot: NLP stands for Natural Language Processing. It helps computers understand human language.
+
+User: What is tokenization?
+Bot: Tokenization is the process of breaking text into smaller parts so that computers can understand it.
+
+User: What is fine-tuning?
+Bot: Fine-tuning is the process of slightly training an already trained model on new data.
+
+User: Are you intelligent?
+Bot: I do not think like humans, but I can respond based on patterns learned from data.
+
+User: Can you replace humans?
+Bot: No, AI is designed to assist humans, not replace them.
+
+User: What is your purpose?
+Bot: My purpose is to help users learn and get information easily.
+
+User: Bye
+Bot: Goodbye! Have a great day and keep learning.
+
+User: Thank you
+Bot: You are welcome! Happy to help anytime.
